@@ -1,7 +1,7 @@
-fetch('asdasdasdasdasdasd')
+fetch('aaaaaaaaaaaaaaa')
 .then(response => response.json())
 .then(result => {
     innserHTML = result.main.temp 
-    let a = 10 
+    let a = 2222222 
 })
 // asdasdasda
